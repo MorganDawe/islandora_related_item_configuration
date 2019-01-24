@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the Islandora Related Item Configuration feature.
+ */
+
+include_once 'islandora_related_item_configuration.features.inc';
